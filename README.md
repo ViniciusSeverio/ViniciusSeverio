@@ -1,18 +1,16 @@
-## # Olá! Eu sou Vinicius Severio 👋
+# Vinicius Severio
 
 💻 **Desenvolvedor Backend em formação**
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, com foco em **Java e desenvolvimento Backend**.
-
-Busco minha primeira oportunidade na área de desenvolvimento e estou construindo meu portfólio através de projetos práticos.
+Estudante de **ADS** e **Engenharia de Software**, com foco em **Java e desenvolvimento Backend**. Buscando minha primeira oportunidade na área de desenvolvimento.
 
 ### 🛠️ Tecnologias
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🗄️ SQL
-* 🔧 Git & GitHub
-* 📦 POO e Collections
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ### 📚 Atualmente estudando
 
@@ -20,37 +18,20 @@ Busco minha primeira oportunidade na área de desenvolvimento e estou construind
 
 ### 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas** — 5º semestre
-**Engenharia de Software** — 1º semestre
+* **Análise e Desenvolvimento de Sistemas** — 5º semestre
+* **Engenharia de Software** — 1º semestre
 
 ### 🚀 Projetos
 
 📦 **Sistema de Estoque em Java**
-Sistema desenvolvido para praticar Java, POO, métodos, validações, Collections e gerenciamento de produtos.
+Projeto desenvolvido para praticar Java, POO, métodos, validações e Collections.
 
-🔗 Confira meus repositórios para acompanhar minha evolução.
+📂 Confira meus repositórios para acompanhar minha evolução.
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Severio-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/vinicius-sousa-644b32214/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Severio-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vinicius-sousa-644b32214/)
 
 ---
 
-**Em constante aprendizado e evolução. 🚀**
-
-
-
-<!--
-**ViniciusSeverio/ViniciusSeverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sempre aprendendo. Sempre evoluindo. 🚀**
